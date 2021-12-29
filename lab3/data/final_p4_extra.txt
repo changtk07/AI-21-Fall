@@ -1,0 +1,36 @@
+Start=0
+Not_Play=0
+Play=0
+Head=0
+Tail=0
+Stay_H=0
+Stay_T=0
+Switch_H=0
+Switch_T=0
+Win=105
+Lose=-100
+Again=-2
+
+Start : [Play, Not_Play]
+Play : [Head, Tail]
+Head : [Stay_H, Switch_H]
+Tail : [Stay_T, Switch_T]
+Stay_H : [Win, Lose]
+Stay_T : [Win, Lose]
+Switch_H : [Win, Lose]
+Switch_T : [Win, Lose]
+Win : [Again, Not_Play]
+Lose : [Again, Not_Play]
+Again : [Start]
+
+Start % 1
+Play % 0.55 0.45
+Head % 1
+Tail % 1
+Stay_H % 0.409 0.591
+Switch_H % 0.509 0.491
+Stay_T % 0.5 0.5
+Switch_T % 0.4 0.6
+Win % 1
+Lose % 1
+Again % 1
