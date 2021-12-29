@@ -1,3 +1,0 @@
-/Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab1/build/CMakeFiles/rebuild_cache.dir
-/Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab1/build/CMakeFiles/edit_cache.dir
-/Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab1/build/CMakeFiles/lab1.dir
