@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab2/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -std=gnu++11 -o CMakeFiles/lab2.dir/src/main.cpp.o -c /Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab2/src/main.cpp",
+  "file": "/Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab2/src/main.cpp"
+},
+{
+  "directory": "/Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab2/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -std=gnu++11 -o CMakeFiles/lab2.dir/src/proposition.cpp.o -c /Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab2/src/proposition.cpp",
+  "file": "/Users/kevin/Documents/NYU/fall-21/Artificial-Intelligence/lab2/src/proposition.cpp"
+}
+]
